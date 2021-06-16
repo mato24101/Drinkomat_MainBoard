@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:45:02 On 14. 6. 2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [MainBoard.PrjPcb]
+   Generated File[Bill of Materials-MainBoard.xls]
+   Generated File[Bill of Materials-MainBoard.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:45:04 On 14. 6. 2021
